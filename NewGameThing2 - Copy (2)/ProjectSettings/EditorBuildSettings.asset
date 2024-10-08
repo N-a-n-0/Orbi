@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro Spalsh.unity
+    guid: e539ae55b24f33140910967e84cde936
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 4def6e719fb561b40bf4bbee9d05c342
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelOne.unity
+    guid: f869c6b42d3807447bfc7f1ec8da8e7f
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelTwo.unity
+    guid: 4ec2f6d80342ed44080f7041fc144f2c
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelThree.unity
+    guid: ff067d0b757b5c4478af06f0a7696f37
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelFour.unity
+    guid: d540d482668ba2d4f86f3f18ab9d8e01
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelFive.unity
+    guid: aed941848b738e94f89a8512e674bb45
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelSix.unity
+    guid: 9bdf7e94f6a18c148931ba52186ee025
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelSeven.unity
+    guid: 35bf9fcb4c43abf448993c1bf7d8f505
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelEight.unity
+    guid: 02e3306c6ce7d4c4e81df30c338e1ea3
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelNine.unity
+    guid: ddebe58e83403444e8534dbc5e6b3199
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelTen.unity
+    guid: e34bd171df9706141b6cd766efcbf53f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d88e31f396858d846bca7d809059e5f7
+  - enabled: 1
+    path: Assets/Scenes/VidThing.unity
+    guid: 2909c93fdf97d4044847767e563b9e8c
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BETA SPALSH.unity
+    guid: 59a2ca51c5f53c5498af2046c1216065
+  - enabled: 1
+    path: Assets/Scenes/Splash1.unity
+    guid: 5a05457020d09a341b388e018ea69d85
+  m_configObjects: {}

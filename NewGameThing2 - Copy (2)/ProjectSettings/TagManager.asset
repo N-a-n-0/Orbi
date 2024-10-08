@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Square
+  - Circle
+  - Triangle
+  - Win
+  - OutOfBounds
+  - EnemyBall
+  - Bouncy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - BackLayer
+  - 'Collision Object Layer '
+  - Front UI Stuff
+  - trail
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackLayer
+    uniqueID: 1198856055
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Movable/Collion Objects
+    uniqueID: 3216539787
+    locked: 0
+  - name: trial
+    uniqueID: 3352600883
+    locked: 0
