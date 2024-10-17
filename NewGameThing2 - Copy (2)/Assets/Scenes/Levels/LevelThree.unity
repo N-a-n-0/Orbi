@@ -4779,7 +4779,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 2088105093}
   influenceRange: 4
-  intensity: 40
+  intensity: 20
   distance: -63.4
 --- !u!222 &1227959289293204715
 CanvasRenderer:

@@ -402,6 +402,7 @@ MonoBehaviour:
   myDrop: {fileID: 0}
   ball: {fileID: 2088105091}
   triangle: {fileID: 0}
+  bounce: {fileID: 0}
   speed: 1.5
   placeHolder: {fileID: 2143030883}
 --- !u!4 &228219802
@@ -467,7 +468,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -555,6 +556,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fbe381feb0971bc418da570347a52bf1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  lvlButtons: []
 --- !u!4 &243806857
 Transform:
   m_ObjectHideFlags: 0
@@ -2904,9 +2906,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91c6702d5bced9e4ca5b6477a76fc26a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dead: {fileID: 0}
   pauseMenu: {fileID: 937084017}
+  pauseMenudos: {fileID: 0}
   bruh: 0
   rigid: {fileID: 2088105094}
+  ball: {fileID: 0}
 --- !u!114 &2088105099
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2920,6 +2925,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   recordTime: 100000
+  rate: 0.3
+  next: 0
 --- !u!1 &2143030883
 GameObject:
   m_ObjectHideFlags: 0
